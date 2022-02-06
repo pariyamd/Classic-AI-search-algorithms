@@ -19,6 +19,6 @@ The target test is performed when the node is expanded, and when a node from one
 
 |  | Iterative deepening search | A* search| Bidirectional search|
 | ------ | ------ | ------ | ------ |
-| Time complexity | <img src="https://render.githubusercontent.com/render/math?math=O(b^d)">|<img src="https://render.githubusercontent.com/render/math?math=O(log h*(n))">|<img src="https://render.githubusercontent.com/render/math?math=O(b^{d/2})">|
+| Time complexity | <img src="https://render.githubusercontent.com/render/math?math=O(b^d)">|<img src="https://render.githubusercontent.com/render/math?math=O(\log (h*(n)))">|<img src="https://render.githubusercontent.com/render/math?math=O(b^{d/2})">|
 | Space complexity |  <img src="https://render.githubusercontent.com/render/math?math=O(bd)">|<img src="https://render.githubusercontent.com/render/math?math=O(b^d)">|<img src="https://render.githubusercontent.com/render/math?math=O(b^{d/2})">|
 
